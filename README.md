@@ -4,7 +4,7 @@
 
 ## Full Stack Developer for 9 years.
 
-### Reach out to me
+### About Me
 
 I have been dealing with web technologies and software for 9 years. In addition to this, I was also interested in mobile programming. In my web projects, the first principle is security, then design and user experience. I prefer SASS and TypeScript for front-end technologies, PHP and NodeJS for back-end technologies. Software programming is love.
 
@@ -24,7 +24,7 @@ I have been dealing with web technologies and software for 9 years. In addition 
 
 
 
-## My Links
+## Reach out to me
 
 <!-- LINK-lIST:START -->
 - [My Blog Page](https://talhatokur.com)
