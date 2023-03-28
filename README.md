@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" width="400" height="250">
-
 ###  I am Talha. :blush:
 
 ## Full Stack Developer for 9 years.
