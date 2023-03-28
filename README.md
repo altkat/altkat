@@ -6,7 +6,7 @@
 
 ### Reach out to me
 
-I'm Talha. It's my 9th year in the software industry. I usually deal with web projects, I also research other technologies. I like to follow the developments about the software. Also researching and using new technologies is among my hobbies.
+I have been dealing with web technologies and software for 9 years. In addition to this, I was also interested in mobile programming. In my web projects, the first principle is security, then design. I prefer SASS and TypeScript for front-end technologies, PHP and NodeJS for back-end technologies. Software programming is love.
 
 ### Tech I use
 
