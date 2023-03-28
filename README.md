@@ -8,6 +8,8 @@
 
 ### Reach out to me
 
+[I'm Talha. It's my 9th year in the software industry. I usually deal with web projects, I also research other technologies. I like to follow the developments about the software. Also researching and using new technologies is among my hobbies.]
+
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
