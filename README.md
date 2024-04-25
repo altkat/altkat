@@ -2,11 +2,11 @@
 
 ###  I am Talha. :blush:
 
-## Full Stack Developer for 9 years.
+## Full Stack Developer for 10 years.
 
 ### About Me
 
-I have been dealing with web technologies and software for 9 years. In addition to this, I was also interested in mobile programming. In my web projects, the first principle is security, then design and user experience. I prefer SASS and TypeScript for front-end technologies, PHP and NodeJS for back-end technologies. Software programming is love.
+I have been dealing with web technologies and software for 10 years. In addition to this, I was also interested in mobile programming. In my web projects, the first principle is security, then design and user experience. I prefer SASS and TypeScript for front-end technologies, PHP and NodeJS for back-end technologies. Software programming is love.
 
 ### Tech I use
 
